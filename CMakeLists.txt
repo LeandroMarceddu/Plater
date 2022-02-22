@@ -12,7 +12,7 @@ set_property(GLOBAL APPEND
 )
 
 add_subdirectory(plater)
-add_subdirectory(gui)
+#add_subdirectory(gui)
 
 # Packaging
 include(GNUInstallDirs)
